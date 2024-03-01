@@ -1,0 +1,24 @@
+{
+  "name": "binobj",
+  "version": "1.0.0",
+  "description": "Clean up clutter in your project with binobj! This Node.js package quickly removes 'bin' and 'obj' folders. Just install globally and run in your project directory.",
+  "main": "./dist/index.js",
+  "bin": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "author": "Burak Eker",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mburakeker/binobj.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mburakeker/binobj/issues"
+  },
+  "homepage": "https://github.com/mburakeker/binobj",
+  "devDependencies": {
+    "@types/node": "^20.11.24"
+  }
+}
