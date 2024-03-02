@@ -1,5 +1,7 @@
 # binobj
 
+[![Node.js CI](https://github.com/mburakeker/binobj/actions/workflows/node.js.yml/badge.svg)](https://github.com/mburakeker/binobj/actions/workflows/node.js.yml)
+
 A Node.js package to clean up 'bin' and 'obj' folders in your project.
 
 ## Installation
