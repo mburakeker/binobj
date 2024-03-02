@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-import { run } from "./cleanupBuildFolders";
+import { run } from "./binObj";
 
 run();
